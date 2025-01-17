@@ -28,7 +28,7 @@ The **GetCID WordPress Plugin** is the ultimate tool for offering Confirmation I
 1. **Download the Plugin**  
    - To get the plugin, contact us at:  
      - **Email**: [care@msconfirmationid.com](mailto:care@msconfirmationid.com)  
-     - **Telegram**: [@MicrosoftKeySeller](https://t.me/MicrosoftKeySeller)  
+     - **Telegram**: [@CidAdmin](https://t.me/cidadmin)  
      - **Skype**: [live:.cid.afc21522bf98cf1b](https://join.skype.com/invite/.cid.afc21522bf98cf1b)  
 
 2. **Embed on Your Website**  
